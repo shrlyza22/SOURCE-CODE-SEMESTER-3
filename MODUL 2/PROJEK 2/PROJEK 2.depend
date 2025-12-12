@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1759313638 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 2\projek 2\main.cpp
+	<iostream>
+	"barang.h"
+
+1759248525 c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 2\projek 2\barang.h
+	<string>
+
+1759248499 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 2\projek 2\barang.cpp
+	<iostream>
+	"barang.h"
+

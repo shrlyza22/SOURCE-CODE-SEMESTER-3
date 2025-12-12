@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1761321014 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 7\stack\stack.cpp
+	<iostream>
+	"stack.h"
+
+1761319479 c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 7\stack\stack.h
+
+1761320191 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 7\stack\main.cpp
+	<iostream>
+	"stack.h"
+

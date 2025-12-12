@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1760868734 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 6\dll\main.cpp
+	<iostream>
+	"dll.h"
+
+1760823406 c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 6\dll\dll.h
+
+1760867759 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 6\dll\dll.cpp
+	<iostream>
+	"dll.h"
+

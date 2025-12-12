@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1763826813 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 11\tree\main.cpp
+	<iostream>
+	"tree.h"
+
+1763817671 c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 11\tree\tree.h
+
+1763906169 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 11\tree\tree.cpp
+	<iostream>
+	"tree.h"
+

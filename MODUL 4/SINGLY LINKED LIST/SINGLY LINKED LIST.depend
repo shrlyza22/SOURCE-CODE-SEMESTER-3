@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1759497607 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 4\singly linked list\list.cpp
+	<iostream>
+	"list.h"
+
+1759497274 c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 4\singly linked list\list.h
+	<iostream>
+
+1759498903 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 4\singly linked list\main.cpp
+	"list.h"
+

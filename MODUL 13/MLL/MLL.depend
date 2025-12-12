@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1765026908 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 13\mll\main.cpp
+	<iostream>
+	"mll.h"
+
+1765029586 c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 13\mll\mll.h
+	<iostream>
+
+1765028882 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 13\mll\mll.cpp
+	<iostream>
+	"mll.h"
+

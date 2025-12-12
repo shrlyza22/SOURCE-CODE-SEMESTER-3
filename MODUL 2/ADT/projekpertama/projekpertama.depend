@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1758439037 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\new folder\projekpertama\main.cpp
+	<iostream>
+	"header.cpp"
+
+1758439258 c:\users\shere\onedrive\telkom university\semester 3\struktur data\new folder\projekpertama\header.cpp
+	"header.h"
+
+1758439174 c:\users\shere\onedrive\telkom university\semester 3\struktur data\new folder\projekpertama\header.h
+

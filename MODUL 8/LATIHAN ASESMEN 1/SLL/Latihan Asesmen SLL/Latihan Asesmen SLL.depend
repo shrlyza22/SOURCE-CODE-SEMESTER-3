@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1763172875 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 8\latihan asesmen 1\sll\latihan asesmen sll\sll.cpp
+	<iostream>
+	"sll.h"
+
+1763173824 c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 8\latihan asesmen 1\sll\latihan asesmen sll\sll.h
+	<iostream>
+

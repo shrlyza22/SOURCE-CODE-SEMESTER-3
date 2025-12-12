@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1759040045 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 3\nomor 6\main.cpp
+	<iostream>
+	"kerucut.h"
+
+1758985747 c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 3\nomor 6\kerucut.h
+
+1759040438 source:c:\users\shere\onedrive\telkom university\semester 3\struktur data\modul 3\nomor 6\kerucut.cpp
+	"kerucut.h"
+
